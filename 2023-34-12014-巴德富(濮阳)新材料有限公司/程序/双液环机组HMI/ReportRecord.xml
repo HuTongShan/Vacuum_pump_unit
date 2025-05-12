@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project filever="1.0" ProjectVer="1.0">
+	<DataGrpSet />
+	<BitAlarmSet>
+		<Alarm GroupID="0" bitaddr="v55.0" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="液环泵1过载" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="1" />
+		<Alarm GroupID="0" bitaddr="v55.1" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="液环泵2过载" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="2" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V55.2" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="流量开关断流故障" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="8" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V55.3" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="急停故障" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="7" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V55.4" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="温度过高报警" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="3" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V55.5" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="温度过高急停" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="4" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V55.6" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="液位过低报警" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="5" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V55.7" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="液位过高报警" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="6" />
+	</BitAlarmSet>
+	<RecipeDataSet />
+	<WordAlarmSet />
+</project>

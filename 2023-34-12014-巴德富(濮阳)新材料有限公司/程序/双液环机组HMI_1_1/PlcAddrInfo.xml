@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project filever="1.0">
+	<AddrInfo ScrnNo="5" HasNoPlcAddr="1">
+		<HMIAddr />
+		<WordAddr>
+			<Add Addr="Conn:Stat:Reg:Addr:BInWReg:ByOrder:JZ_D_1:0:VD:144:VB:0:25600" Len="2" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:BInWReg:ByOrder:JZ_D_1:0:VD:120:VB:0:25600" Len="2" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:BInWReg:ByOrder:JZ_D_1:0:VD:116:VB:0:25600" Len="2" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:BInWReg:ByOrder:JZ_D_1:0:VD:128:VB:0:25600" Len="2" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:BInWReg:ByOrder:JZ_D_1:0:VD:132:VB:0:25600" Len="2" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:BInWReg:ByOrder:JZ_D_1:0:VD:124:VB:0:25600" Len="2" Fast="0" />
+		</WordAddr>
+	</AddrInfo>
+</project>

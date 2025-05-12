@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<G_Picture G_PictureVer="2.0">
+	<G_bmplib FileType="1" CurBmpTotal="116" AllBmpTotal="203">
+		<G_bmp Default="1" szFilename="Bmp1" nId="1" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus szFilename="Bmp1_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp1_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp Default="1" szFilename="Bmp2_0.dat" nId="2" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp3_0.dat" nId="3" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp4_0.dat" nId="4" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp5_0.dat" nId="5" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp6_0.dat" nId="6" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp7_0.dat" nId="7" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp8_0.dat" nId="8" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp9_0.dat" nId="9" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp10_0.dat" nId="10" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp11_0.dat" nId="11" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp12_0.dat" nId="12" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp13_0.dat" nId="13" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp Default="1" szFilename="Bmp14" nId="14" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus szFilename="Bmp14_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp14_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp szFilename="LOGO.dat" nId="101" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon0017.svg" nId="103" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon0013.svg" nId="104" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp szFilename="登录界面.dat" nId="105" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0203.svg" nId="106" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon0012.svg" nId="107" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon0010.svg" nId="108" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon0014.svg" nId="109" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp szFilename="Bmp110" nId="110" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus szFilename="Bmp110_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp110_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0103.svg" nId="111" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0014.svg" nId="112" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0020.svg" nId="113" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0016.svg" nId="114" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0018.svg" nId="115" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0001.svg" nId="116" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0011.svg" nId="117" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0201.svg" nId="118" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0200.svg" nId="119" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp nId="120" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus dwMID="0" IsVector="1" szPath="Switch" szFilename="Switch0282.svg" />
+			<MulStatus dwMID="1" IsVector="1" szPath="Switch" szFilename="Switch0283.svg" />
+		</G_bmp>
+		<G_bmp nId="121" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus dwMID="0" IsVector="1" szPath="Switch" szFilename="Switch0286.svg" />
+			<MulStatus dwMID="1" IsVector="1" szPath="Switch" szFilename="Switch0287.svg" />
+		</G_bmp>
+		<G_bmp IsVector="1" szPath="Rectangle" szFilename="Rectangle0200.svg" nId="122" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Rectangle" szFilename="Rectangle0101.svg" nId="123" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0106.svg" nId="124" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0002.svg" nId="125" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0013.svg" nId="126" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon0013.svg" nId="127" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0201.svg" nId="128" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon0022.svg" nId="129" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon0017.svg" nId="130" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon0016.svg" nId="131" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp nId="132" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus dwMID="0" IsVector="1" szPath="Switch" szFilename="Switch0250.svg" />
+			<MulStatus dwMID="1" IsVector="1" szPath="Switch" szFilename="Switch0251.svg" />
+		</G_bmp>
+		<G_bmp nId="133" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus dwMID="0" IsVector="1" szPath="Switch" szFilename="Switch0090.svg" />
+			<MulStatus dwMID="1" IsVector="1" szPath="Switch" szFilename="Switch0091.svg" />
+		</G_bmp>
+		<G_bmp IsVector="1" szPath="Rectangle" szFilename="Rectangle0009.svg" nId="134" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Lamp" szFilename="Lamp0020.svg" nId="135" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp szFilename="Bmp136" nId="136" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus szFilename="Bmp136_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp136_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp szFilename="Bmp137" nId="137" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus szFilename="Bmp137_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp137_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp nId="138" szFilename="Bmp138" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus dwMID="0" szFilename="Bmp138_0.dat" bSavePng="0" bTransparent="0" cTransColor="0" />
+			<MulStatus dwMID="1" szFilename="Bmp138_1.dat" bSavePng="0" bTransparent="0" cTransColor="0" />
+		</G_bmp>
+		<G_bmp IsVector="1" szPath="Direction" szFilename="Direction0008.svg" nId="139" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Button" szFilename="Button0205.svg" nId="140" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp nId="141" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus dwMID="0" IsVector="1" szPath="Flat Style" szFilename="Flat Style43-1.svg" />
+			<MulStatus dwMID="1" IsVector="1" szPath="Flat Style" szFilename="Flat Style43-2.svg" />
+		</G_bmp>
+		<G_bmp nId="142" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus dwMID="0" IsVector="1" szPath="Flat Style" szFilename="Flat Style46-1.svg" />
+			<MulStatus dwMID="1" IsVector="1" szPath="Flat Style" szFilename="Flat Style46-2.svg" />
+		</G_bmp>
+		<G_bmp nId="143" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus dwMID="0" IsVector="1" szPath="Switch" szFilename="Switch0081.svg" />
+			<MulStatus dwMID="1" IsVector="1" szPath="Switch" szFilename="Switch0080.svg" />
+		</G_bmp>
+		<G_bmp IsVector="1" szPath="Machine" szFilename="Machine0301.svg" nId="144" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Pumps" szFilename="Pumps1045.svg" nId="145" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Pumps" szFilename="Pumps1056.svg" nId="146" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Pumps" szFilename="Pumps1067.svg" nId="147" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Pumps" szFilename="Pumps1024.svg" nId="148" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit0050.svg" nId="149" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Tanks" szFilename="Tanks1054.svg" nId="150" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit011402.svg" nId="151" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit0100.svg" nId="152" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit011603.svg" nId="153" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit011403.svg" nId="154" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit0050.svg" nId="155" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4013.svg" nId="156" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4002.svg" nId="157" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4009.svg" nId="158" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4010.svg" nId="159" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4011.svg" nId="160" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4015.svg" nId="161" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4016.svg" nId="162" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4010.svg" nId="163" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4013.svg" nId="164" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4013.svg" nId="165" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4017.svg" nId="166" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4011.svg" nId="167" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Tanks" szFilename="Tanks1014.svg" nId="168" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Valves" szFilename="Valves0727.svg" nId="169" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4008.svg" nId="170" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Pumps" szFilename="Pumps1024.svg" nId="171" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Tanks" szFilename="Tanks1022.svg" nId="172" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Valves" szFilename="Valves0753.svg" nId="173" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Valves" szFilename="Valves0753.svg" nId="174" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit3022.svg" nId="175" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit3019.svg" nId="176" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4012.svg" nId="177" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Tanks" szFilename="Tanks1068.svg" nId="178" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Tanks" szFilename="Tanks1083.svg" nId="179" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit4012.svg" nId="180" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit3021.svg" nId="181" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit3020.svg" nId="182" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon2302.svg" nId="183" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon2319.svg" nId="184" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon2315.svg" nId="185" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon2309.svg" nId="186" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon2324.svg" nId="187" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Icon" szFilename="Icon2313.svg" nId="188" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Pumps" szFilename="Pumps1019.svg" nId="189" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Pumps" szFilename="Pumps1021.svg" nId="190" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Pumps" szFilename="Pumps1024.svg" nId="191" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Pumps" szFilename="Pumps1024.svg" nId="192" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp szFilename="Bmp193_0.dat" nId="193" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp szFilename="Bmp194_0.dat" nId="194" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit3019.svg" nId="195" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp nId="196" szFilename="Bmp196" nTotalStatus="0" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit3022.svg" nId="197" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit3035.svg" nId="198" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit3020.svg" nId="199" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit3021.svg" nId="200" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Conduit" szFilename="Conduit3034.svg" nId="201" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp szFilename="Bmp202_0.dat" nId="202" nTotalStatus="1" nNewTotalStatus="0" />
+		<G_bmp IsVector="1" szPath="Pumps" szFilename="Pumps1037.svg" nId="203" nTotalStatus="1" nNewTotalStatus="0" />
+	</G_bmplib>
+</G_Picture>
