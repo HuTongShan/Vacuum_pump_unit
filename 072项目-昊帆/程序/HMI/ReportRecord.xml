@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project filever="1.0" ProjectVer="1.0">
+	<DataGrpSet>
+		<Group ID="1" Vession="1" Timer="15" FastSample="0" FastTimmer="0" GroupNames="组名称0Record0Record0Record0Record0Record0Record0Record0" MaxSize="3.95" MaxRecord="11037" Trigger="2" TriggAddr="HDX100.0" ChannelCount="3" UseTimerAddr="0" TimerAddr="" UseSampleValue="0" SampleValue="0" Cloud="0" Start="1" End="1" FileName="组名称0">
+			<Data ID="1" WordAddr="HDW200" DataFormat="1000" IsBitCollect="0" ByteLen="32" DigitCount="" Use="0" Name="批次号Lot numberChannel1Channel1Channel1Channel1Channel1Channel1" />
+			<Data ID="2" WordAddr="HDW400" DataFormat="1000" IsBitCollect="0" ByteLen="32" DigitCount="" Use="0" Name="操作信息InformationChannel2Channel2Channel2Channel2Channel2Channel2" />
+			<Data ID="3" WordAddr="I0.0" DataFormat="105" IsBitCollect="1" ByteLen="" DigitCount="" Use="0" Name="对象NameChannel3Channel3Channel3Channel3Channel3Channel3" />
+		</Group>
+		<Group ID="2" Vession="1" Timer="1" FastSample="0" FastTimmer="0" GroupNames="组名称1Record1Record1Record1Record1Record1Record1Record1" Trigger="0" TriggAddr="" ChannelCount="4" UseTimerAddr="0" TimerAddr="" UseSampleValue="0" SampleValue="0" Cloud="0" Start="1" End="1" MaxSize="4" MaxRecord="10356" FileName="组名称1">
+			<Data ID="1" Name="频率Channel1Channel1Channel1Channel1Channel1Channel1Channel1" WordAddr="VW204" DataFormat="104" IsBitCollect="0" ByteLen="1" DigitCount="4.0" Use="0" />
+			<Data ID="2" Name="电流Channel2Channel2Channel2Channel2Channel2Channel2Channel2" WordAddr="VW208" DataFormat="104" IsBitCollect="0" ByteLen="1" DigitCount="4.0" Use="0" />
+			<Data ID="3" Name="机组真空Channel3Channel3Channel3Channel3Channel3Channel3Channel3" WordAddr="VD100_D" DataFormat="206" IsBitCollect="0" ByteLen="2" DigitCount="4.0" Use="0" />
+			<Data ID="4" Name="目标真空Channel4Channel4Channel4Channel4Channel4Channel4Channel4" WordAddr="VD50_D" DataFormat="206" IsBitCollect="0" ByteLen="2" DigitCount="4.0" Use="0" />
+		</Group>
+	</DataGrpSet>
+	<BitAlarmSet>
+		<Alarm GroupID="0" bitaddr="M10.4" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#52" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="1" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="M10.5" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#53" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="2" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="M10.6" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#54" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="3" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="M10.7" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#55" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="4" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="M11.0" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#56" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="5" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="M11.1" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#57" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="6" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="M11.2" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#58" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="7" />
+		<Alarm GroupID="0" bitaddr="V350.0" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#59" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="9" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V350.1" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#60" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="10" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V350.2" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#61" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="11" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V350.3" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#62" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="12" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V350.4" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#63" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="13" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V350.5" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#64" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="14" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V350.6" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#65" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="15" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V350.7" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#66" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="16" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V351.0" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#67" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="17" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V351.1" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#68" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="18" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V351.2" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#69" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="19" />
+		<Alarm Trigger1="" bResetTrigger="" Freq="" BuzzerTime="" IsBeepOne="" GroupID="0" bitaddr="V351.3" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="*@!#70" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="20" />
+	</BitAlarmSet>
+	<RecipeDataSet>
+		<Recipe ID="1" Vession="1" UseLang="1" RecipeName="工艺配方" TotalGroup="5" TotalElement="20" FunAddr="VW500" NoContinuousAddr="0" CtrlType="0" WriteStartAddr="" WriteGroupAddr="" WriteFileAddr="" IndexAddrLen="0" IndexStartAddr="" IndexGroupNOAddr="" IndexFileNameAddr="" InsertStartAddr="" InsertGroupNOAddr="" InsertFileNameAddr="" ReadStartAddr="VW504" ReadGroupAddr="VW502" QueryByElem="" CurElem="">
+			<Element ElemID="0" Name="P1Elem1Elem1Elem1Elem1Elem1Elem1Elem1" DataFormat="105" Len="1" ReadAddr="VW504" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="1" Name="T1Elem2Elem2Elem2Elem2Elem2Elem2Elem2" DataFormat="105" Len="1" ReadAddr="VW506" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="2" Name="P2Elem3Elem3Elem3Elem3Elem3Elem3Elem3" DataFormat="105" Len="1" ReadAddr="VW508" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="3" Name="T2Elem4Elem4Elem4Elem4Elem4Elem4Elem4" DataFormat="105" Len="1" ReadAddr="VW510" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="4" Name="P3Elem5Elem5Elem5Elem5Elem5Elem5Elem5" DataFormat="105" Len="1" ReadAddr="VW512" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="5" Name="T3Elem6Elem6Elem6Elem6Elem6Elem6Elem6" DataFormat="105" Len="1" ReadAddr="VW514" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="6" Name="P4Elem7Elem7Elem7Elem7Elem7Elem7Elem7" DataFormat="105" Len="1" ReadAddr="VW516" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="7" Name="T4Elem8Elem8Elem8Elem8Elem8Elem8Elem8" DataFormat="105" Len="1" ReadAddr="VW518" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="8" Name="P5Elem9Elem9Elem9Elem9Elem9Elem9Elem9" DataFormat="105" Len="1" ReadAddr="VW520" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="9" Name="T5Elem10Elem10Elem10Elem10Elem10Elem10Elem10" DataFormat="105" Len="1" ReadAddr="VW522" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="10" Name="P6Elem11Elem11Elem11Elem11Elem11Elem11Elem11" DataFormat="105" Len="1" ReadAddr="VW524" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="11" Name="T6Elem12Elem12Elem12Elem12Elem12Elem12Elem12" DataFormat="105" Len="1" ReadAddr="VW526" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="12" Name="P7Elem13Elem13Elem13Elem13Elem13Elem13Elem13" DataFormat="105" Len="1" ReadAddr="VW528" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="13" Name="T7Elem14Elem14Elem14Elem14Elem14Elem14Elem14" DataFormat="105" Len="1" ReadAddr="VW530" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="14" Name="P8Elem15Elem15Elem15Elem15Elem15Elem15Elem15" DataFormat="105" Len="1" ReadAddr="VW532" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="15" Name="T8Elem16Elem16Elem16Elem16Elem16Elem16Elem16" DataFormat="105" Len="1" ReadAddr="VW534" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="16" Name="P9Elem17Elem17Elem17Elem17Elem17Elem17Elem17" DataFormat="105" Len="1" ReadAddr="VW536" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="17" Name="T9Elem18Elem18Elem18Elem18Elem18Elem18Elem18" DataFormat="105" Len="1" ReadAddr="VW538" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="18" Name="P10Elem19Elem19Elem19Elem19Elem19Elem19Elem19" DataFormat="105" Len="1" ReadAddr="VW540" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+			<Element ElemID="19" Name="T10Elem20Elem20Elem20Elem20Elem20Elem20Elem20" DataFormat="105" Len="1" ReadAddr="VW542" WriteAddr="" IndexAddr="" InsertAddr="" DigitCount="5.0" />
+		</Recipe>
+	</RecipeDataSet>
+	<WordAlarmSet />
+	<LiveTrendSet>
+		<LiveTrend ID="1" Vession="1" MaxCurve="4" MaxRecord="1000" Timer="1" TriggAddr="" Trigger="0" Name="运行状态曲线">
+			<Curve CurveID="频率Curve1Curve1Curve1Curve1Curve1Curve1Curve1" DataFormat="104" DigitCount="4.0" WordAddr="VW204" />
+			<Curve CurveID="电流Curve2Curve2Curve2Curve2Curve2Curve2Curve2" DataFormat="104" DigitCount="4.0" WordAddr="VW208" />
+			<Curve CurveID="真空度Curve3Curve3Curve3Curve3Curve3Curve3Curve3" DataFormat="206" DigitCount="4.0" WordAddr="VD100_D" />
+			<Curve CurveID="目标真空Curve4Curve4Curve4Curve4Curve4Curve4Curve4" DataFormat="206" DigitCount="4.0" WordAddr="VD50_D" />
+		</LiveTrend>
+	</LiveTrendSet>
+</project>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plcdesc filever="1.0">
+<plc plctype="G7 Series"  Type_Ch="CHINSC 山东深川"  AddrCalcuMode="0">
+		<wordaddr ResCount="17">
+			<res Reg="4" Jinzhi="d">
+				<Area  AreaType="1" RelReg="4"  BaseAddr="0x0000" Range="0 65535"  dword="0"/>
+			</res>	
+			<res Reg="F0." Jinzhi="d">
+				<Area  AreaType="2" RelReg="4"  BaseAddr="0xF000" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="F1." Jinzhi="d">
+				<Area  AreaType="3" RelReg="4"  BaseAddr="0xF100" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="F2." Jinzhi="d">
+				<Area  AreaType="4" RelReg="4"  BaseAddr="0xF200" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="F3." Jinzhi="d">
+				<Area  AreaType="5" RelReg="4"  BaseAddr="0xF300" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="F4." Jinzhi="d">
+				<Area  AreaType="6" RelReg="4"  BaseAddr="0xF400" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="F5." Jinzhi="d">
+				<Area  AreaType="7" RelReg="4"  BaseAddr="0xF500" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="F6." Jinzhi="d">
+				<Area  AreaType="8" RelReg="4"  BaseAddr="0xF600" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="F7." Jinzhi="d">
+				<Area  AreaType="9" RelReg="4"  BaseAddr="0xF700" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="F8." Jinzhi="d">
+				<Area  AreaType="10" RelReg="4"  BaseAddr="0xF800" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="F9." Jinzhi="d">
+				<Area  AreaType="11" RelReg="4"  BaseAddr="0xF900" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="FA." Jinzhi="d">
+				<Area  AreaType="12" RelReg="4"  BaseAddr="0xFA00" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="FB." Jinzhi="d">
+				<Area  AreaType="13" RelReg="4"  BaseAddr="0xFB00" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="FC." Jinzhi="d">
+				<Area  AreaType="14" RelReg="4"  BaseAddr="0xFC00" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="FD." Jinzhi="d">
+				<Area  AreaType="15" RelReg="4"  BaseAddr="0xFD00" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="FE." Jinzhi="d">
+				<Area  AreaType="16" RelReg="4"  BaseAddr="0xFE00" Range="0 255"  dword="0"/>
+			</res>	
+			<res Reg="FF." Jinzhi="d">
+				<Area  AreaType="17" RelReg="4"  BaseAddr="0xFF00" Range="0 255"  dword="0"/>
+			</res>				
+		</wordaddr>
+	</plc>
+</plcdesc>

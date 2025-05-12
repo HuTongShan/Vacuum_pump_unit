@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserMgr>
+	<User ID="1" UserName="admin">
+		<Name LaIndexID="adminadminadminadminadminadminadminadmin" />
+		<Description LaIndexID="adminadminadminadminadminadminadminadmin" />
+	</User>
+	<User ID="2" UserName="管理员">
+		<Name LaIndexID="管理员user1user1user1user1user1user1user1" />
+		<Description LaIndexID="管理员user1user1user1user1user1user1user1" />
+	</User>
+	<User ID="3" UserName="操作工">
+		<Name LaIndexID="操作工user3user3user3user3user3user3user3" />
+		<Description LaIndexID="操作工user3user3user3user3user3user3user3" />
+	</User>
+	<User ID="4" UserName="超级管理员">
+		<Name LaIndexID="超级管理员user4user4user4user4user4user4user4" />
+		<Description LaIndexID="超级管理员user4user4user4user4user4user4user4" />
+	</User>
+</UserMgr>
